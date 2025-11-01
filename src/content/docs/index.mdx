@@ -1,40 +1,76 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: Welcome to Infected Games Hosting Guides
+description: Your comprehensive resource for game server hosting guides and documentation.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Professional game server hosting made simple. Learn how to set up, configure, and manage your game servers with our comprehensive guides.
   image:
     file: ../../assets/houston.webp
+    alt: Infected Games Hosting
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Getting Started
+      link: /getting-started/beginners-guide/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+      variant: primary
+    - text: Browse Game Guides
+      link: /games/palworld/getting-started/
+      icon: rocket
+    - text: Need Support?
+      link: https://billing.infectedgamehosting.com/submitticket.php
       icon: external
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid } from "@astrojs/starlight/components";
 
-## Next steps
+## Quick Access
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+  <Card title="Getting Started" icon="rocket">
+    New to game server hosting? Start here to learn the basics of managing your
+    server through our control panel. [View Guide
+    →](/getting-started/beginners-guide/)
+  </Card>
+
+  <Card title="Game Guides" icon="puzzle">
+    Detailed setup and configuration guides for popular games including
+    Palworld, Minecraft, ARK, and more. [Browse Games
+    →](/games/palworld/getting-started/)
+  </Card>
+
+  <Card title="Server Management" icon="setting">
+    Learn how to manage backups, schedules, databases, and subusers for your
+    game servers. [Learn More →](/getting-started/backups/)
+  </Card>
+
+  <Card title="Troubleshooting" icon="warning">
+    Having issues? Check our troubleshooting guides or contact our support team
+    for assistance. [Get Help
+    →](https://billing.infectedgamehosting.com/submitticket.php)
+  </Card>
 </CardGrid>
+
+## Popular Guides
+
+<CardGrid>
+  <Card title="Palworld Server Setup" icon="star">
+    Complete guide to setting up and configuring your Palworld dedicated server.
+    [Read Guide →](/games/palworld/getting-started/)
+  </Card>
+
+  <Card title="Creating Backups" icon="document">
+    Learn how to create and restore backups to keep your server data safe. [Read
+    Guide →](/getting-started/backups/)
+  </Card>
+
+  <Card title="Adding Subusers" icon="user">
+    Grant access to friends or staff members with custom permissions. [Read
+    Guide →](/getting-started/adding-subusers/)
+  </Card>
+</CardGrid>
+
+## About Infected Games Hosting
+
+Infected Games Hosting provides premium game server hosting with powerful control panels, DDoS protection, and 24/7 support. Our guides help you get the most out of your server.
+
+**Need assistance?** Our support team is available 24/7 at [billing.infectedgamehosting.com](https://billing.infectedgamehosting.com/submitticket.php)

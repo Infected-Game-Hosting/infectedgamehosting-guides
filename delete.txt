@@ -1,0 +1,185 @@
+---
+title: Welcome to Starlight
+description: Get started building your docs site with Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Congrats on setting up a new Starlight project!
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Example Guide
+      link: /guides/example/
+      icon: right-arrow
+    - text: Read the Starlight docs
+      link: https://starlight.astro.build
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+## Next steps
+
+<CardGrid stagger>
+  <Card title="Update content" icon="pencil">
+    Edit `src/content/docs/index.mdx` to see this page change.
+  </Card>
+  <Card title="Change page layout" icon="document">
+    Delete `template: splash` in `src/content/docs/index.mdx` to display a
+    sidebar on this page.
+  </Card>
+  <Card title="Add new content" icon="add-document">
+    Add Markdown or MDX files to `src/content/docs` to create new pages.
+  </Card>
+  <Card title="Configure your site" icon="setting">
+    Edit your `sidebar` and other config in `astro.config.mjs`.
+  </Card>
+  <Card title="Read the docs" icon="open-book">
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
+  </Card>
+</CardGrid>
+
+
+// @ts-check
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
+
+import tailwindcss from "@tailwindcss/vite";
+
+// https://astro.build/config
+export default defineConfig({
+  integrations: [
+    starlight({
+      title: "My Docs",
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/withastro/starlight",
+        },
+      ],
+      sidebar: [
+        {
+          label: "Guides",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: "Example Guide", slug: "guides/example" },
+          ],
+        },
+        {
+          label: "Reference",
+          autogenerate: { directory: "reference" },
+        },
+      ],
+    }),
+  ],
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
+});
+
+
+
+
+@layer base, starlight, theme, components, utilities;
+
+@import "@astrojs/starlight-tailwind";
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+/* Custom styles for Infected Games Hosting theme */
+:root {
+  --sl-color-accent-low: #1a1a2e;
+  --sl-color-accent: #00ff88;
+  --sl-color-accent-high: #00cc6a;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f5f5f5;
+  --sl-color-gray-2: #e0e0e0;
+  --sl-color-gray-3: #b0b0b0;
+  --sl-color-gray-4: #808080;
+  --sl-color-gray-5: #505050;
+  --sl-color-gray-6: #2a2a2a;
+  --sl-color-black: #0a0a0a;
+}
+
+/* Custom card styling */
+.sl-markdown-content .card {
+  @apply rounded-lg border border-gray-700 bg-gray-800/50 p-6 transition-all hover:border-green-500/50 hover:shadow-lg;
+}
+
+/* Custom button styling */
+.custom-button {
+  @apply inline-flex items-center gap-2 rounded-lg bg-green-500 px-6 py-3 font-semibold text-black transition-all hover:bg-green-400;
+}
+
+/* Code block enhancements */
+.sl-markdown-content pre {
+  @apply rounded-lg border border-gray-700;
+}
+
+/* Callout boxes */
+.callout {
+  @apply my-4 rounded-lg border-l-4 p-4;
+}
+
+.callout-info {
+  @apply border-blue-500 bg-blue-900/20;
+}
+
+.callout-warning {
+  @apply border-yellow-500 bg-yellow-900/20;
+}
+
+.callout-danger {
+  @apply border-red-500 bg-red-900/20;
+}
+
+.callout-success {
+  @apply border-green-500 bg-green-900/20;
+}
+
+
+
+import starlightPlugin from "@astrojs/starlight-tailwind";
+
+// Generated color palettes
+const accent = {
+  200: "#b3ffd9",
+  600: "#00ff88",
+  900: "#003d29",
+  950: "#002a1c",
+};
+const gray = {
+  100: "#f6f6f7",
+  200: "#eeeff1",
+  300: "#c2c3c7",
+  400: "#8b8d94",
+  500: "#565861",
+  700: "#373841",
+  800: "#26272f",
+  900: "#17181c",
+};
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+  theme: {
+    extend: {
+      colors: {
+        accent,
+        gray,
+        green: {
+          500: "#00ff88",
+          400: "#33ffa0",
+          600: "#00cc6a",
+        },
+      },
+      fontFamily: {
+        sans: ['"Inter Variable"', "Inter", "system-ui", "sans-serif"],
+        mono: ['"JetBrains Mono"', "monospace"],
+      },
+    },
+  },
+  plugins: [starlightPlugin()],
+};
