@@ -1,0 +1,119 @@
+@layer base, starlight, theme, components, utilities;
+
+@import "@astrojs/starlight-tailwind";
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@theme {
+  /* Infected Games Hosting Brand Colors */
+
+  /* Accent color - Green (#00ff88) */
+  --color-accent-50: #e6fff5;
+  --color-accent-100: #b3ffd9;
+  --color-accent-200: #80ffbd;
+  --color-accent-300: #4dffa1;
+  --color-accent-400: #1aff85;
+  --color-accent-500: #00ff88;
+  --color-accent-600: #00cc6a;
+  --color-accent-700: #00994d;
+  --color-accent-800: #006633;
+  --color-accent-900: #003d29;
+  --color-accent-950: #002a1c;
+
+  /* Gray scale */
+  --color-gray-50: #f6f6f7;
+  --color-gray-100: #eeeff1;
+  --color-gray-200: #e0e0e0;
+  --color-gray-300: #c2c3c7;
+  --color-gray-400: #8b8d94;
+  --color-gray-500: #565861;
+  --color-gray-600: #505050;
+  --color-gray-700: #373841;
+  --color-gray-800: #26272f;
+  --color-gray-900: #17181c;
+  --color-gray-950: #0a0a0a;
+
+  /* Fonts */
+  --font-sans:
+    "Inter Variable", "Inter", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", "Consolas", monospace;
+}
+
+/* Custom component styles */
+@layer components {
+  /* Custom card styling */
+  .custom-card {
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-gray-700);
+    background-color: rgb(38 39 47 / 0.5);
+    padding: 1.5rem;
+    transition: all 0.3s;
+  }
+
+  .custom-card:hover {
+    border-color: rgb(0 255 136 / 0.5);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  }
+
+  /* Custom button styling */
+  .custom-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #00ff88;
+    padding: 0.75rem 1.5rem;
+    font-weight: 600;
+    color: #000000;
+    transition: all 0.3s;
+  }
+
+  .custom-button:hover {
+    background-color: #33ffa0;
+  }
+
+  /* Callout boxes */
+  .callout {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    border-left-width: 4px;
+    padding: 1rem;
+  }
+
+  .callout-info {
+    border-color: #3b82f6;
+    background-color: rgb(30 58 138 / 0.2);
+  }
+
+  .callout-warning {
+    border-color: #eab308;
+    background-color: rgb(113 63 18 / 0.2);
+  }
+
+  .callout-danger {
+    border-color: #ef4444;
+    background-color: rgb(127 29 29 / 0.2);
+  }
+
+  .callout-success {
+    border-color: #00ff88;
+    background-color: rgb(0 61 41 / 0.2);
+  }
+}
+
+/* Additional utility styles */
+@layer utilities {
+  .text-brand {
+    color: #00ff88;
+  }
+
+  .bg-brand {
+    background-color: #00ff88;
+  }
+
+  .border-brand {
+    border-color: #00ff88;
+  }
+}
