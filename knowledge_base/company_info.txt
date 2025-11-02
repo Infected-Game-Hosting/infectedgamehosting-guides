@@ -1,0 +1,149 @@
+COMPANY INFORMATION - INFECTED GAME HOSTING (IGH)
+
+Company Overview:
+Infected Game Hosting (IGH) is a specialized game server hosting company focused on delivering high-performance, reliable hosting solutions for gaming communities. We pride ourselves on providing professional-grade infrastructure with personal, U.S.-based support.
+
+Mission Statement:
+To provide gamers with the most reliable, high-performance server hosting experience possible, backed by expert support and cutting-edge technology.
+
+Core Values:
+- Performance First: Every decision is made with server performance in mind
+- Community Focus: We understand gaming communities and their unique needs
+- Transparency: Honest communication about services, pricing, and limitations
+- Innovation: Continuously improving our services and adopting new technologies
+- Support Excellence: Real humans providing real solutions, no bots or runarounds
+
+Company History:
+IGH was founded by gaming enthusiasts who were frustrated with the lack of quality hosting options for serious gaming communities. We started with a simple goal: provide the hosting service we wished existed when we were running our own game servers.
+
+What Makes IGH Different:
+
+Real Human Support:
+- U.S.-based support team (no outsourcing)
+- Staff members are actual gamers who understand your needs
+- No chatbots or automated responses for support tickets
+- Direct access to technical staff when needed
+- Support staff authorized to make decisions and solve problems immediately
+
+Performance-First Approach:
+- Hardware selected specifically for gaming workloads
+- Network infrastructure optimized for low latency
+- Continuous monitoring and optimization
+- Performance testing and validation for all services
+- Investment in cutting-edge technology (Ryzen 9 upgrades coming)
+
+Gaming Community Focus:
+- We understand the unique needs of gaming servers
+- Support for mods, custom configurations, and community features
+- Flexible solutions for communities of all sizes
+- Experience with gaming-specific challenges and solutions
+- Community-friendly pricing and policies
+
+Current Status:
+IGH is currently in an active client testing phase where we're:
+- Gathering real-world performance data
+- Optimizing our services based on actual usage
+- Providing free hosting to clients during this phase
+- Building our knowledge base and support procedures
+- Preparing for full launch with enhanced services
+
+Services Offered:
+
+Primary Services:
+- Palworld Server Hosting (starting at $11/month)
+- High-performance gaming infrastructure
+- Professional mod installation and management
+- 24/7 monitoring and maintenance
+- U.S.-based technical support
+
+Upcoming Services:
+- Minecraft Server Hosting (in development)
+- Additional game server types based on demand
+- Enhanced control panel features
+- Advanced analytics and monitoring tools
+
+Technical Infrastructure:
+
+Hardware:
+- AMD Ryzen CPUs (Ryzen 9 upgrades planned)
+- Fast NVMe SSD storage exclusively
+- High-speed memory with ECC protection
+- Enterprise-grade network hardware
+
+Network:
+- Denver, Colorado datacenter location
+- 1Gbit unmetered bandwidth
+- Multiple network providers for redundancy
+- Built-in DDoS protection
+- Low-latency routing optimization
+
+Monitoring and Maintenance:
+- 24/7 automated monitoring systems
+- Proactive issue detection and resolution
+- Regular maintenance and updates
+- Performance optimization ongoing
+- Emergency response procedures
+
+Quality Assurance:
+
+Performance Standards:
+- 99.9% uptime guarantee
+- Sub-20ms latency within North America
+- Consistent frame rates and tick rates
+- Quick response times for all operations
+- Regular performance audits and optimization
+
+Support Standards:
+- Emergency response within 1 hour
+- Technical issues resolved within 2-4 hours
+- General support within 4-6 hours
+- Knowledge base and self-help resources
+- Proactive communication about issues
+
+Security Standards:
+- Always-on DDoS protection
+- Regular security updates and patches
+- Secure access controls and authentication
+- Data protection and privacy measures
+- Compliance with security best practices
+
+Customer Testimonials:
+Our clients consistently praise:
+- Instant setup and quick response times
+- Zero downtime during migrations
+- Consistent performance and stability
+- Easy server scaling and management
+- Excellent customer service and support
+
+Future Vision:
+IGH is committed to becoming the premier hosting provider for serious gaming communities. Our roadmap includes:
+- Expansion to additional game types
+- Advanced automation and self-service features
+- Enhanced performance monitoring and analytics
+- Global datacenter expansion
+- Innovative hosting solutions for emerging games
+
+Contact Information:
+- Website: https://infectedgamehosting.com/
+- Client Portal: https://billing.infectedgamehosting.com/
+- Support: Through client portal ticket system
+- Response Times: 1-6 hours depending on issue severity
+
+Company Philosophy:
+"We're gamers hosting for gamers. We understand your frustration with poor performance, complicated setups, and unhelpful support. That's why we built IGH - to provide the hosting experience we always wanted but could never find."
+
+Partnership and Community:
+IGH actively engages with the gaming community through:
+- Discord server for clients and community members
+- Regular communication about updates and improvements
+- Listening to customer feedback and feature requests
+- Supporting gaming events and communities
+- Transparent communication about our services and limitations
+
+Quality Commitment:
+Every IGH service comes with our commitment to:
+- Transparent pricing with no hidden fees
+- Honest communication about capabilities and limitations
+- Continuous improvement based on customer feedback
+- Investment in the latest technology and infrastructure
+- Maintaining the highest standards of service quality

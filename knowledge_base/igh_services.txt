@@ -1,0 +1,69 @@
+INFECTED GAME HOSTING (IGH) - MAIN SERVICES AND INFORMATION
+
+Company Overview:
+Infected Game Hosting (IGH) specializes in high-performance game server hosting with full mod support, rapid deployment, and unmatched uptime. We focus on stability, speed, and flexibility for both small communities and large public servers.
+
+Website: https://infectedgamehosting.com/
+Client Portal: https://billing.infectedgamehosting.com/
+
+Core Services:
+1. Palworld Server Hosting - Starting at $11.00 per month
+2. High-performance game server infrastructure
+3. Full mod support and installation
+4. 24/7 monitoring and maintenance
+5. U.S.-based customer support
+
+Key Features and Benefits:
+
+24/7 System Monitoring:
+- We monitor and maintain our systems around the clock
+- Ensures servers are always online and performing optimally
+- Proactive issue detection and resolution
+
+Mod Support:
+- Easy mod installation and management through control panel
+- Players get full freedom to customize their gameplay experience
+- Professional mod installation by our team to prevent server issues
+
+High-Performance Hardware:
+- All servers run on fast SSDs for quick load times and stable performance
+- High-performance Ryzen CPUs tuned for game server workloads
+- Delivers exceptional stability and responsiveness
+- Ryzen 9 CPU upgrades coming soon for Premium Palworld servers
+
+Network Infrastructure:
+- High-speed, unmetered 1Gbit connections
+- Ensures low-latency sessions even during peak hours
+- Located in Denver, Colorado datacenter
+- Built-in DDoS mitigation always active
+- Infrastructure includes always-on DDoS protection
+
+Support Team:
+- U.S.-based support team available to help
+- No bots, no runarounds - real human assistance
+- Quick response times for technical issues
+- Professional and knowledgeable staff
+
+Performance Optimization:
+- Tuned and performance-tested hardware
+- Ensures stable gameplay and faster server response
+- Hardware specifically optimized for gaming workloads
+- Regular performance monitoring and optimization
+
+Current Status:
+- Currently in client testing phase
+- All active game instances receive monthly credits during testing
+- Free hosting during the testing phase
+- Gathering real-world performance data
+- Continuously optimizing performance
+
+Customer Testimonials:
+- "Setup was instant and the support team answered within minutes. Our community experienced zero downtime during migration — highly recommend IGH."
+- "Best game hosting we've tried so far — consistent tick rate and very easy server scaling. Saved us a lot of headaches."
+- "Server performance exceeded expectations. Would like more one-click mod support, otherwise very happy."
+- "Migrated multiple servers without any issues. Support handled custom configs quickly — five stars!"
+
+Service Locations:
+- Primary datacenter: Denver, Colorado
+- All hosting services include built-in DDoS mitigation
+- Strategic location for optimal North American coverage

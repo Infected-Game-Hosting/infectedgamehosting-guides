@@ -1,0 +1,245 @@
+BILLING AND ACCOUNT SUPPORT - INFECTED GAME HOSTING
+
+Client Portal Access:
+- Main billing portal: https://billing.infectedgamehosting.com/
+- Account management and service controls
+- Server control panel access
+- Support ticket system
+- Billing history and invoices
+
+Current Promotional Offers:
+
+Limited-Time Free Hosting (Client Testing Phase):
+- All active game instances receive monthly credits during testing phase
+- Covers full hosting costs while we optimize performance
+- No charges during client testing period
+- Gathering real-world performance data
+- Optimizing services based on user feedback
+- Testing phase status updates posted regularly
+
+Payment Methods Accepted:
+
+Standard Payment Options:
+- Credit Cards (Visa, MasterCard, American Express, Discover)
+- Debit Cards with major card network logos
+- PayPal payments and PayPal Credit
+- Bank transfers (ACH) for US customers
+- Wire transfers for international customers
+
+Cryptocurrency Options:
+- Bitcoin (BTC) payments accepted
+- Ethereum (ETH) payments accepted
+- Other major cryptocurrencies on request
+- Cryptocurrency payments processed securely
+- Instant account credit after blockchain confirmation
+
+Billing Cycles and Pricing:
+
+Palworld Server Hosting:
+- Starting price: $11.00 per month
+- Multiple tier options available
+- Monthly billing cycles
+- Auto-renewal enabled by default
+- Prorated billing for upgrades/downgrades
+
+Billing Schedule:
+- Monthly billing on your signup date
+- Auto-renewal unless manually cancelled
+- 48-hour grace period for failed payments
+- Email reminders sent before billing date
+- Invoice generation on billing date
+
+Account Management:
+
+Account Creation:
+- Sign up at https://billing.infectedgamehosting.com/
+- Email verification required
+- Secure password requirements
+- Two-factor authentication recommended
+- Account activation within minutes
+
+Account Settings:
+- Update billing information
+- Change payment methods
+- Modify contact information
+- Password and security settings
+- Notification preferences
+
+Service Management:
+- Start, stop, restart servers
+- Access server control panels
+- View resource usage statistics
+- Download server files and backups
+- Configure server settings
+
+Refund Policy:
+
+Money-Back Guarantee:
+- 7-day money-back guarantee on new services
+- Full refund if not satisfied within 7 days
+- No questions asked cancellation
+- Refund processed within 5-7 business days
+- Available for first-time customers
+
+Prorated Refunds:
+- Prorated refunds available for service downgrades
+- Calculated from date of downgrade request
+- Credit applied to account or refunded to payment method
+- Processing time: 5-7 business days
+- Refund method matches original payment method
+
+Refund Limitations:
+- No refunds available after 30 days of service
+- Refunds not applicable to add-on services
+- Setup fees are non-refundable
+- Domain registration fees non-refundable
+- Cryptocurrency payments: store credit only
+
+Subscription Management:
+
+Auto-Renewal:
+- Enabled by default for convenience
+- Can be disabled in account settings
+- Email notifications before renewal
+- Grace period for payment failures
+- Service suspension after grace period expires
+
+Service Cancellation:
+- Cancel anytime through client portal
+- No cancellation fees or penalties
+- Data backup available for 30 days after cancellation
+- Re-activation possible within 30 days
+- Cancellation confirmation email sent
+
+Service Suspension:
+- 48-hour grace period for failed payments
+- Service suspended after grace period
+- Data retained for 30 days during suspension
+- Email notifications sent during grace period
+- Easy reactivation upon payment resolution
+
+Account Security:
+
+Security Features:
+- Strong password requirements
+- Two-factor authentication (2FA) available
+- Login attempt monitoring
+- Secure session management
+- Regular security updates
+
+Account Recovery:
+- Password reset via email
+- Account recovery through support
+- Identity verification for sensitive changes
+- Security questions for additional protection
+- Emergency account access procedures
+
+Billing Support Services:
+
+Invoice and Receipt Management:
+- Automatic invoice generation
+- Email delivery of invoices
+- PDF invoice downloads available
+- Detailed billing history
+- Tax documentation provided
+
+Payment Issue Resolution:
+- Failed payment investigation
+- Payment method verification
+- Chargeback handling and dispute resolution
+- Fraud prevention measures
+- Alternative payment arrangement options
+
+Account Assistance:
+- Billing inquiry support
+- Payment scheduling assistance
+- Account upgrade/downgrade guidance
+- Service migration support
+- Custom billing arrangements for enterprises
+
+Upgrade and Downgrade Options:
+
+Service Upgrades:
+- Instant upgrades available
+- Prorated billing for upgrade charges
+- No service interruption during upgrades
+- Email confirmation of changes
+- New resources available immediately
+
+Service Downgrades:
+- Processed at next billing cycle
+- Prorated refunds for unused time
+- Data migration assistance provided
+- Advance notice requirements
+- Confirmation required for downgrades
+
+Tax Information:
+
+Sales Tax:
+- Applied based on billing address
+- Compliant with local tax regulations
+- Tax-exempt organizations supported
+- Tax documentation provided
+- Regular tax rate updates
+
+International Billing:
+- Currency conversion handled automatically
+- International payment methods accepted
+- VAT handling for EU customers
+- Tax compliance in multiple jurisdictions
+- Currency exchange rate transparency
+
+Special Billing Arrangements:
+
+Enterprise Billing:
+- Custom payment terms available
+- Purchase order processing
+- Net payment terms (Net 15, Net 30)
+- Volume discounts for multiple servers
+- Dedicated account management
+
+Non-Profit Organizations:
+- Special pricing considerations
+- Flexible payment arrangements
+- Documentation requirements
+- Verification process required
+- Limited-time promotional pricing
+
+Educational Discounts:
+- Student and educational institution discounts
+- Verification of educational status required
+- Special terms and conditions apply
+- Limited to specific service tiers
+- Renewal requirements for continued discounts
+
+Contact Information for Billing Support:
+- Primary: Submit ticket through https://billing.infectedgamehosting.com/
+- Email: Available through client portal
+- Response times: 4-6 hours for billing inquiries
+- Emergency billing issues: Priority support available
+- Business hours: Monday-Friday, extended weekend coverage
+
+Common Billing Questions:
+
+"When will I be billed?"
+- Monthly on your signup date
+- Auto-renewal unless cancelled
+- Email reminders sent in advance
+
+"Can I change my payment method?"
+- Yes, through your client portal
+- Changes effective immediately
+- Next billing uses new payment method
+
+"What if my payment fails?"
+- 48-hour grace period provided
+- Email notifications sent
+- Service suspended after grace period
+- Easy reactivation upon payment resolution
+
+"How do I cancel my service?"
+- Log into client portal
+- Navigate to service management
+- Select cancellation option
+- Confirmation email sent
+- Data backup available for 30 days

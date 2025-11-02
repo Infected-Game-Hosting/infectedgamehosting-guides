@@ -2,6 +2,7 @@
 dist/
 # generated types
 .astro/
+delete.txt
 
 # dependencies
 node_modules/

@@ -1,0 +1,171 @@
+FREQUENTLY ASKED QUESTIONS - INFECTED GAME HOSTING
+
+GENERAL QUESTIONS:
+
+Q: What is Infected Game Hosting (IGH)?
+A: IGH is a specialized game server hosting company that provides high-performance Palworld server hosting with full mod support, professional management, and U.S.-based customer support. We focus exclusively on gaming communities and understand their unique needs.
+
+Q: Where are your servers located?
+A: Our primary datacenter is located in Denver, Colorado, USA. This location provides excellent connectivity and low latency for North American players, with sub-20ms ping times for most of the continent.
+
+Q: What makes IGH different from other hosting providers?
+A: We offer real U.S.-based human support (no bots), gaming-optimized hardware, professional mod installation, 24/7 monitoring, and we're run by gamers who understand community needs. Plus, we're currently offering free hosting during our client testing phase.
+
+PALWORLD HOSTING:
+
+Q: How much does Palworld server hosting cost?
+A: Palworld server hosting starts at $11.00 per month. However, we're currently in a client testing phase where all active game instances receive monthly credits covering their hosting costs - meaning your server is free during testing!
+
+Q: How many players can my Palworld server support?
+A: This depends on your server tier and configuration. Our servers can support anywhere from 8-32+ players depending on the plan you choose and server specifications. We can help you determine the right size for your community.
+
+Q: Can you install mods on my Palworld server?
+A: Yes! We provide professional mod installation services. Simply submit a mod request through your client portal with the mod name or download link, and our team will install it safely within 4-6 hours. Never try to install mods yourself via FTP as this can break your server.
+
+Q: How quickly can I get my Palworld server set up?
+A: Most servers are provisioned within 24 hours of signup. During our testing phase, setup is often much faster. You'll receive access to your control panel and server details via email once ready.
+
+Q: What if my Palworld server has issues?
+A: Our support team responds to technical issues within 2-4 hours, and emergency issues within 1 hour. We also provide 24/7 monitoring, so we often detect and fix problems before you even notice them.
+
+TECHNICAL QUESTIONS:
+
+Q: What hardware do you use for servers?
+A: We use high-performance AMD Ryzen CPUs (with Ryzen 9 upgrades coming soon), fast NVMe SSD storage, high-speed memory, and enterprise-grade network equipment. All servers get unmetered 1Gbit network connections.
+
+Q: Do you provide DDoS protection?
+A: Yes, all of our servers include always-on DDoS protection as a standard feature. This protects your server from attacks without any additional cost or configuration needed.
+
+Q: Can I access my server files?
+A: Yes, you can access your server files through the control panel file manager. However, for safety and stability, we recommend using our professional services for major changes like mod installation.
+
+Q: Do you provide backups?
+A: Yes, we provide automated daily backups with point-in-time recovery options. Backups are stored offsite for security, and we can restore your server quickly if needed.
+
+Q: What's your uptime guarantee?
+A: We guarantee 99.9% uptime. Our infrastructure includes redundant systems, 24/7 monitoring, and emergency response procedures to maintain this standard.
+
+SUPPORT AND BILLING:
+
+Q: How do I contact support?
+A: Submit a support ticket through your client portal at https://billing.infectedgamehosting.com/. Our U.S.-based team responds within 1-6 hours depending on issue severity. No bots or outsourced support!
+
+Q: What payment methods do you accept?
+A: We accept credit/debit cards, PayPal, bank transfers, and major cryptocurrencies (Bitcoin, Ethereum). Currently, services are free during our client testing phase.
+
+Q: Can I cancel anytime?
+A: Yes, you can cancel your service anytime through your client portal with no cancellation fees. Your data will be available for backup for 30 days after cancellation, and you can reactivate within that period if desired.
+
+Q: Do you offer refunds?
+A: We offer a 7-day money-back guarantee for new customers. We also provide prorated refunds for service downgrades. Currently, during our testing phase, all services are free anyway!
+
+Q: How do I upgrade or downgrade my server?
+A: You can request upgrades or downgrades through your client portal. Upgrades are processed immediately with prorated billing, while downgrades are processed at your next billing cycle with prorated refunds.
+
+MOD AND CUSTOMIZATION:
+
+Q: What mods do you support for Palworld?
+A: We support mods from trusted sources like NexusMods, Steam Workshop, GitHub releases, and the official Palworld mod directory. We can install quality of life mods, gameplay enhancements, and server administration tools.
+
+Q: Can I install mods myself?
+A: No, please don't attempt to install mods yourself via FTP or file manager. This can break your server instance and void support. Always use our professional mod installation service through your client portal.
+
+Q: How long does mod installation take?
+A: Standard mod installations are completed within 4-6 hours. We test each mod for compatibility and safety before installation. Emergency or priority mod installations can be arranged if needed.
+
+Q: What if a mod causes problems?
+A: Our team tests all mods before installation and monitors your server afterward. If issues arise, we can quickly remove problematic mods or restore from backup. We maintain multiple backup versions for this purpose.
+
+Q: Can you install custom or private mods?
+A: We only support mods from trusted, public sources for security and stability reasons. Custom or private mods without public source code cannot be installed through our service.
+
+SERVER MANAGEMENT:
+
+Q: How do I restart my server?
+A: You can restart your server anytime through your control panel. The restart process typically takes 2-3 minutes, and you'll see the status update in real-time.
+
+Q: Can I change server settings?
+A: Yes, many server settings can be modified through your control panel, including world settings, player limits, PvP/PvE modes, and difficulty settings. Some advanced changes may require support assistance.
+
+Q: How do I add admins to my server?
+A: Admin privileges can be configured through your control panel. You can add player admin rights, manage permissions, and set up administrative tools for your community managers.
+
+Q: Can I transfer my existing world to IGH?
+A: Yes, we can help transfer existing Palworld saves and worlds from other providers or local installations. Contact support with details about your current setup, and we'll guide you through the process.
+
+Q: How do I invite players to my server?
+A: Your server IP and connection details are available in your control panel. You can share these with your community members. We also provide guidance on setting up server browsers and community integration.
+
+TROUBLESHOOTING:
+
+Q: My server won't start. What should I do?
+A: First, check your control panel for any error messages or status updates. Try restarting through the control panel. If the problem persists, contact support immediately - we typically resolve server startup issues within 2-4 hours.
+
+Q: Players can't connect to my server. How do I fix this?
+A: Verify your server is running (green status), check that you're sharing the correct IP and port, ensure the server isn't full, and confirm firewall settings. If issues persist, contact support for network diagnostics.
+
+Q: My server is lagging or running slowly. What can be done?
+A: Check your resource usage in the control panel, review installed mods for performance impact, and consider if your server tier matches your player count. Our team can optimize performance and recommend upgrades if needed.
+
+Q: How do I restore from backup?
+A: Backup restoration can be requested through your support portal. Specify which backup date/time you want to restore to, and our team will handle the restoration process safely.
+
+ACCOUNT AND BILLING:
+
+Q: How do I access my client portal?
+A: Visit https://billing.infectedgamehosting.com/ and log in with the credentials you created during signup. If you've forgotten your password, use the password reset option.
+
+Q: When will I be billed?
+A: Billing occurs monthly on your signup date. Currently, during our client testing phase, you receive credits covering the full cost. You'll receive email reminders before any future billing.
+
+Q: Can I change my payment method?
+A: Yes, you can update your payment method anytime through your client portal. Changes take effect immediately and will be used for your next billing cycle.
+
+Q: What happens if my payment fails?
+A: You'll receive email notifications and have a 48-hour grace period to resolve payment issues. After that, service may be suspended, but your data is retained for 30 days to allow reactivation.
+
+FUTURE SERVICES:
+
+Q: Will you support other games besides Palworld?
+A: Yes! We're actively developing Minecraft server hosting and plan to expand to additional games based on community demand. Follow our announcements for updates.
+
+Q: Are you planning any new features?
+A: We're continuously improving our services. Upcoming features include Ryzen 9 CPU upgrades, enhanced control panel features, one-click mod installations, and advanced analytics tools.
+
+Q: How can I request new features or provide feedback?
+A: We welcome feedback! Submit suggestions through your support portal or Discord community. We actively listen to our clients and prioritize features based on community needs.
+
+GETTING STARTED:
+
+Q: How do I sign up for service?
+A: Visit https://infectedgamehosting.com/ or go directly to https://billing.infectedgamehosting.com/ to create an account and select your Palworld hosting plan. Setup typically completes within 24 hours.
+
+Q: What information do I need to provide?
+A: Just basic account information (email, password) and your preferred server configuration. Payment information is collected but not charged during our testing phase.
+
+Q: Do you have a trial period?
+A: Currently, our entire client testing phase serves as an extended trial - you get full service for free while we optimize performance. This is better than a traditional trial!
+
+Q: What support is available to new customers?
+A: New customers receive the same high-quality support as all clients: U.S.-based human support, comprehensive knowledge base, community Discord, and direct access to our technical team.
+
+COMMUNITY AND DISCORD:
+
+Q: Do you have a Discord server?
+A: Yes! Our Discord community provides real-time support, community interaction, service announcements, and direct access to our support team and other IGH clients.
+
+Q: Can I get help from other IGH customers?
+A: Absolutely! Our Discord community is very helpful, and experienced IGH customers often assist newcomers with setup, optimization, and troubleshooting questions.
+
+Q: How do I stay updated on service news?
+A: Follow our Discord announcements, check the news section in your client portal, and ensure your email notifications are enabled for important service updates.
+
+STILL HAVE QUESTIONS?
+
+If your question isn't answered here:
+1. Check your client portal at https://billing.infectedgamehosting.com/
+2. Submit a support ticket for personalized help
+3. Ask in our Discord community for quick community assistance
+4. Use our AI support bot with: !igh ask [your question]
+
+Our U.S.-based support team is always ready to help with any questions specific to your setup or needs!

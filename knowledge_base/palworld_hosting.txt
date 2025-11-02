@@ -1,0 +1,90 @@
+PALWORLD SERVER HOSTING - INFECTED GAME HOSTING
+
+Palworld Hosting Overview:
+IGH specializes in Palworld server hosting with optimized performance, full mod support, and professional management. Our Palworld servers are designed for "Capture Pals, Explore Dungeons, Build Bases and Adventure with Friends!"
+
+Pricing:
+- Starting at $11.00 per month
+- Multiple tiers available for different player counts
+- Free hosting currently available during client testing phase
+- Monthly billing with auto-renewal options
+
+Server Features:
+- High-performance Ryzen CPUs (Ryzen 9 upgrades coming soon!)
+- Fast SSD storage for quick world loading
+- Unmetered 1Gbit network connections
+- Built-in DDoS protection
+- 24/7 server monitoring
+
+Player Capacity Options:
+- Small Communities: 8-16 players
+- Medium Communities: 16-24 players  
+- Large Communities: 24+ players
+- Custom configurations available
+
+Palworld-Specific Features:
+- Optimized for Palworld gameplay mechanics
+- Support for custom world settings
+- Pal capture and base building optimizations
+- Dungeon exploration performance tuning
+- Multiplayer adventure support
+
+Server Configuration:
+- Custom server settings through control panel
+- World seed customization available
+- Player limit adjustments
+- PvP/PvE configuration options
+- Day/night cycle settings
+- Difficulty adjustments
+
+Mod Support for Palworld:
+- Professional mod installation service
+- Popular Palworld mods supported
+- Mod compatibility testing
+- Safe mod installation to prevent server corruption
+- Mod update management
+- Custom mod requests handled by support team
+
+Performance Optimization:
+- Servers tuned specifically for Palworld
+- Consistent tick rates for smooth gameplay
+- Minimal lag during peak player activity
+- Optimized memory allocation for large worlds
+- Regular performance monitoring
+
+Getting Started:
+1. Sign up at https://billing.infectedgamehosting.com/
+2. Choose your Palworld hosting plan
+3. Server provisioned within 24 hours
+4. Access your control panel for configuration
+5. Invite friends and start your adventure!
+
+Technical Specifications:
+- CPU: High-performance Ryzen processors
+- RAM: Allocated based on player count and mods
+- Storage: Fast NVMe SSD storage
+- Network: 1Gbit unmetered bandwidth
+- Location: Denver, Colorado datacenter
+- Uptime: 99.9% guaranteed
+
+World Management:
+- Automatic world backups
+- World save protection
+- Easy world resets if needed
+- World transfer assistance available
+- Large world support (no size limits)
+
+Support for Palworld:
+- Palworld-specific troubleshooting
+- Server configuration assistance
+- Performance optimization help
+- Mod installation support
+- World corruption recovery
+- Player management guidance
+
+Upcoming Features:
+- Ryzen 9 CPU upgrades for Premium servers
+- Enhanced control panel features
+- One-click mod installation improvements
+- Advanced world management tools
+- Performance analytics dashboard
