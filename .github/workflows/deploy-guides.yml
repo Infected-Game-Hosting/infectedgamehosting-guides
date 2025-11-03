@@ -1,0 +1,59 @@
+name: Deploy Guides to IONOS VPS
+
+on:
+  push:
+    branches:
+      - main # Change to your production branch
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  deploy:
+    name: Build and Deploy Guides
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎 Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20" # Astro recommends Node 18 or higher
+          cache: "npm"
+
+      - name: 📦 Install Dependencies
+        run: npm ci
+
+      - name: 🏗 Build Astro Site
+        run: npm run build
+        env:
+          # Add any environment variables your build needs
+          # SITE: https://guides.infectedgamehosting.com
+
+      - name: 📤 Deploy to VPS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_PORT }}
+          source: "dist/*" # Astro builds to 'dist' directory
+          target: "/home/github-deploy/build-guides"
+          strip_components: 1
+          rm: true
+
+      - name: 🚀 Execute Deployment Script
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_PORT }}
+          script: |
+            cd ~
+            ./deploy-guides.sh
+
+      - name: ✅ Deployment Complete
+        run: |
+          echo "🎉 Guides deployment successful!"
+          echo "📚 Site: https://guides.infectedgamehosting.com"
