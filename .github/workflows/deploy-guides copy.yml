@@ -26,9 +26,9 @@ jobs:
 
       - name: 🏗 Build Astro Site
         run: npm run build
-        # Uncomment and add environment variables if needed:
-        # env:
-        #   SITE: https://guides.infectedgamehosting.com
+        env:
+          # Add any environment variables your build needs
+          # SITE: https://guides.infectedgamehosting.com
 
       - name: 📤 Deploy to VPS
         uses: appleboy/scp-action@v0.1.7
